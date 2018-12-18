@@ -12,7 +12,7 @@ public class AppTest
 {
     /**
      * Create the test case
-     *
+     *iguhjkilmohjugvfcdxgthyjukiygtu
      * @param testName name of the test case
      */
     public AppTest( String testName )
@@ -34,5 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println("kkokf");
     }
 }
